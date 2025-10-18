@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: "Georgia", serif;
+    background-color: blanchedalmond;
+    margin: 32px;
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+.photo-credit {
+    font-size: small;
+}
+
+img {
+    border-radius: 10px;
+}
+
+p,
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
